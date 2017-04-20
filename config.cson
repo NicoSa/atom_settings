@@ -1,0 +1,16 @@
+"*":
+  autosave:
+    enabled: true
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 13
+    invisibles: {}
+  "exception-reporting":
+    userId: "108f6432-be0a-7fdc-4cd0-048d97b88250"
+  welcome:
+    showOnStartup: false
